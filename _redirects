@@ -1,0 +1,3 @@
+/index.php/:yr/:mo/:dy/:slug/ /:slug/ 301
+/index.php/* /:splat 301
+/home/ / 301
